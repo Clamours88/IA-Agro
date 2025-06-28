@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cena 1",
+    "sound_effects": "tractor moving through a field",
+    "music": "upbeat rural melody"
+  },
+  {
+    "name": "Cena 2",
+    "sound_effects": "birds chirping with light wind",
+    "music": "soft orchestral background"
+  }
+]
