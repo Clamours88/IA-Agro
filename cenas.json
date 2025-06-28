@@ -1,0 +1,16 @@
+{
+    "cenas": [
+        {
+            "animacao": "videos/cena1.mp4",
+            "narracao": "audio/narracao1.mp3",
+            "sfx": ["audio/efeito1.mp3"],
+            "musica": "audio/musica1.mp3"
+        },
+        {
+            "animacao": "videos/cena2.mp4",
+            "narracao": "audio/narracao2.mp3",
+            "sfx": ["audio/efeito2.mp3"],
+            "musica": "audio/musica2.mp3"
+        }
+    ]
+}
