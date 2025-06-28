@@ -1,0 +1,3 @@
+Cena 1: Um fazendeiro verificando as plantações ao amanhecer.
+Cena 2: Drones monitorando a lavoura durante o dia.
+Cena 3: Colheitadeira autônoma trabalhando ao entardecer.
